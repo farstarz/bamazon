@@ -1,3 +1,3 @@
 # bamazon
 This is an ecommerce app which contains 10 items in the stock along with price and stock quantity. On running this app a list of all items is displayed followed by a form of two questions asking the user about which product to but and how many units to be bought. If the product exists and there are enough units of the product, product is ordered and the SQL table is updated to represented the remaining units. 
-![Alt text](pic1.PNG?raw=true "Pic1")![Alt text](pic2.PNG?raw=true "Pic2")
+![Alt text](pic1.PNG?raw=true "Pic1")![Alt text](pic2.PNG?raw=true "Pic2")![Alt text](pic3.PNG?raw=true "Pic3")
